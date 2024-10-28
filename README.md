@@ -1,11 +1,11 @@
 <!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IA-YAYMImjodJLEbZlNkVT7jvEbi0ZNW5A&s)] -->
-<h1 align="center">Hi 👋, I'm Tharun Yetti</h1>
+<h1 align="center">Hello there 👋, I'm Tharun Yetti</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align='right' alt='mine' widht='400' src='https://t4.ftcdn.net/jpg/06/01/05/09/360_F_601050934_uLh2QCnPSdoK6tdpWqU2CtyaT3De8q9t.jpg'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunyetti&label=Profile%20views&color=0e75b6&style=flat" alt="tharunyetti" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React**p
+- 🌱 I’m currently learning **React and android development**
 
 - 💬 Ask me about **Spring Boot, Java, MERN**
 
