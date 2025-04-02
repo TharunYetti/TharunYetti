@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IA-YAYMImjodJLEbZlNkVT7jvEbi0ZNW5A&s)] -->
-<h1 align="center">Hello there 👋, I'm Tharun Yetti</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hello there 👋, I'm Mr. Tharun Yetti</h1>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align='right' alt='mine' widht='400' src='https://t4.ftcdn.net/jpg/06/01/05/09/360_F_601050934_uLh2QCnPSdoK6tdpWqU2CtyaT3De8q9t.jpg'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunyetti&label=Profile%20views&color=0e75b6&style=flat" alt="tharunyetti" /> </p>
@@ -30,18 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunyetti&show_icons=true&locale=en" alt="tharunyetti" /></p>
 
+## Achievements 🚀  
+- Qualified **GATE CSE 2025** with **AIR 6009**  
+- Score: 519 | Normalized Marks: 45.82  
 
-<!--
-**TharunYetti/TharunYetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
